@@ -1,4 +1,4 @@
-# First_Portfolio_App
+# First_Details_App
 This is the first Portfolio App that I have created...
 
 I am a First Year Undergraduate Student at Chandigarh University and I am learning Android Development through the Course "Android Basics with Compose".
